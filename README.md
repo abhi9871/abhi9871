@@ -8,7 +8,7 @@ Passionate about crafting backend solutions and problem-solving in code. Current
 
 ## 💼 Current Work
 - Personal Projects:
-  - Expense Tracker
+  - [Expense Tracker](https://github.com/abhi9871/Expense-Tracker-App)
   - Group Chat App
   - Built with Node.js, Express.js, and MySQL
 
